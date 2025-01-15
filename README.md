@@ -1,4 +1,4 @@
-# bt1
+# bt1: I am rich
 
 A new Flutter project.
 
